@@ -4,7 +4,7 @@
   --secondary-text-color: #212121;
   --primary-white-color: #ffffff;
   --secondary-white-color: rgba(255, 255, 255, 0.6);
-  --icon-deactive-footer: rgba(78, 28, 28, 0.1);
+  --icon-deactive-footer: rgba(255, 255, 255, 0.1);
   --primary-blue-accent-color: #2196f3;
   --secondary-blue-color: rgba(33, 150, 243, 0.9);
   --primary-black-color: #000000;
@@ -813,7 +813,7 @@ img {
 .modal-form-policy {
   width: 100%;
 
-  margin-bottom: 30px;
+  /* margin-bottom: 30px; */
 
   font-size: 14px;
   line-height: 1.71;
@@ -859,7 +859,7 @@ img {
   width: 200px;
   height: 50px;
 
-  margin: 0 auto;
+  margin: 30px auto 0;
 
   padding: 0;
 
